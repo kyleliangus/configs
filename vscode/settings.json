@@ -1,0 +1,23 @@
+{
+    "python.pythonPath": "/opt/anaconda3",
+    "workbench.colorTheme": "Monokai",
+    "workbench.iconTheme": "material-icon-theme",
+    "platformio-ide.reopenSerialMonitorDelay": 1000,
+    "terminal.integrated.inheritEnv": false,
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+    "python.defaultInterpreterPath": "/opt/anaconda3",
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "window.zoomLevel": 2,
+    "vim.textwidth": 78,
+    "[python]": {
+        "editor.formatOnType": true,
+        "editor.defaultFormatter": "eeyore.yapf"
+    }
+}
